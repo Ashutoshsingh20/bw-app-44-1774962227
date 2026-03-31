@@ -1,7 +1,7 @@
 {
   "name": "bw-app-44-1774962227",
   "version": "1.0.0",
-  "description": "Delta Prism monochrome ops dashboard",
+  "description": "Glacier Signal monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"

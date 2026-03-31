@@ -1,4 +1,4 @@
-# Delta Prism
+# Glacier Signal
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
